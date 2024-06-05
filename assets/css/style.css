@@ -823,7 +823,7 @@ h6.h1 {
 }
 .color-dark,
 .text-dark {
-  color: #444c67;
+  color: #B21217;
 }
 .color-grey,
 .text-grey {
@@ -870,9 +870,9 @@ h6.h1 {
   fill: #e6a1f2;
 }
 .bg-dark {
-  background: #444c67 !important;
+  background: #B21217 !important;
   color: #ffffff;
-  fill: #444c67;
+  fill: #B21217;
 }
 .bg-transparent {
   background: transparent;
@@ -910,7 +910,7 @@ h6.h1 {
   border-color: #e6a1f2;
 }
 .border-dark {
-  border-color: #444c67;
+  border-color: #B21217;
 }
 .no-border {
   border: 0px!important;
@@ -2665,11 +2665,11 @@ table.dataTable thead .sorting::after {
   color: #ffffff;
 }
 .panel-dark {
-  border-color: #444c67;
+  border-color: #B21217;
 }
 .panel-dark .panel-heading {
-  background: #444c67;
-  border-color: #444c67;
+  background: #B21217;
+  border-color: #B21217;
   color: #ffffff;
 }
 .panel-white {
@@ -5374,7 +5374,7 @@ label {
   font-size: 14px;
 }
 .datamap-sales-hover-tooltip {
-  background: #444c67;
+  background: #B21217;
   font-family: 'Poppins';
   padding: 5px 10px;
   color: #ffffff;
@@ -6705,7 +6705,7 @@ tbody tr td:last-child {
   font-size: 150px;
   font-weight: 900;
   line-height: 210px;
-  color: #444c67;
+  color: #B21217;
 }
 /*
 /* Version: 1.0
